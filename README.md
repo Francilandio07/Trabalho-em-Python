@@ -1,7 +1,7 @@
 # Trabalho-em-Python
 # MACHINE-LEARNING
   Esse trabalho proposto na disciplina de Técnicas de programação, objetiva reproduzir os conhecimentos adquiridos sobre Machine- 
--Learning, a partir de exemplos e um tutorial de uma ferramenta da linguagem Python, o scikit learn, que agrega dados que podem
+Learning, a partir de exemplos e um tutorial de uma ferramenta da linguagem Python, o scikit learn, que agrega dados que podem
 ser usados para treinar um classificador, o qual é modelado a partir de algoritmos disponibilizados pelo próprio scikit learn. 
 O trabalho é dividido em duas partes, a primeira consiste na reprodução de um tutorial online e uso de dois algoritmos para 
 complementar um experimento em que um outro algoritmo é utilizado, fazendo uma comparação dos resultados desses três, e na 
